@@ -1,0 +1,13 @@
+.center {
+  width: fit-content;
+  padding: 3em 1.5em;
+  border: 1px solid black;
+  margin: 2em auto;
+  border-radius: 5px;
+  transition: 0.4s;
+}
+
+.center:hover {
+  box-shadow: 1px 1px 15px rgba(68, 68, 138, 0.445);
+  border-color: rgba(0, 0, 0, 0.404);
+}
